@@ -11,7 +11,7 @@ PASSWORD          -Gayatri@123
 
 STUDENT ID        - SBAP0029516
 STUDENT NAME      -KOTAKONDA RENUKA
-GROUP             - BCA(DATA SCIENCE)
+GROUP             - BCA(GENERAL)
 LEARNING TRACK    - SALESFORCE-DEVELOPER
 TRAILHEAD PROFILE LINK -https://www.salesforce.com/trailblazer/oghegqinfgwxjm5ow6
 PROJECT NAME      -LEASE MANAGEMENT
