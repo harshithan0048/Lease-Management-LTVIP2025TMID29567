@@ -13,7 +13,7 @@ STUDENT ID        - SBAP0029516
 STUDENT NAME      -KOTAKONDA RENUKA
 GROUP             - BCA(DATA SCIENCE)
 LEARNING TRACK    - SALESFORCE-DEVELOPER
-TRAILHEAD PROFILE LINK -
+TRAILHEAD PROFILE LINK -https://www.salesforce.com/trailblazer/oghegqinfgwxjm5ow6
 PROJECT NAME      -LEASE MANAGEMENT
 ORG USERNAME      - kotakondarenukasuren05408@agentforce.com
 PASSWORD          -Gayatri@123
@@ -32,7 +32,7 @@ STUDENT ID        - SBAP0029511
 STUDENT NAME      - KONDETI TEJASREE
 GROUP             - BCA(GENERAL)
 LEARNING TRACK    -  SALESFORCE-DEVELOPER
-TRAILHEAD PROFILE LINK - 
+TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/ty1t59rabcz7kte9uq
 
 PROJECT NAME      -LEASE MANAGEMENT
 ORG USERNAME      - tejasreekondeti25610@agentforce.com
